@@ -1,4 +1,3 @@
-import java.lang.Integer.MIN_VALUE
 
 //https://app.codesignal.com/arcade/intro/level-2/xzKiBHjhoinnpdh6m
 object AdjacentElementsProduct {
